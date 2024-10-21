@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Array_Excercises
 {
-    internal class Class1
+    internal class Game
     {
+        public void Start()
+        {
+
+        }
     }
 }
